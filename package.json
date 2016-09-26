@@ -1,4 +1,7 @@
 {
+"engines": {
+  "node": "4.4.x"
+},
 	"dependencies" : {
 	"express": "https://github.com/expressjs/express#4.13.4"
 	}
