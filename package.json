@@ -1,8 +1,10 @@
 {
-"engines": {
-  "node": "4.4.x"
-},
-	"dependencies" : {
-	"express": "https://github.com/expressjs/express#4.13.4"
-	}
+    "name":"app1",
+    "version":"0.0.1",
+    "engines": {
+        "node": "6.x.x"
+    },
+    "dependencies" : {
+        "express": "https://github.com/expressjs/express#4.13.4"
+    }
 }
