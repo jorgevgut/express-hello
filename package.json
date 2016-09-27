@@ -1,6 +1,9 @@
 {
     "name":"app1",
     "version":"0.0.1",
+    "engines": {
+        "node": "4.5.0"
+    },
     "dependencies" : {
         "express": "4.x.x"
     }
